@@ -69,7 +69,7 @@ If you need an easy solution for converting icons to `.ico` with the proper size
 
 <br />
 
-<p align="center"><img style="width: 45%;text-align: center;border: 1px solid #353535;" src="https://github.com/Aetherinox/keeweb-favicon-cdn/assets/118329232/fd5ab52f-8d5c-4abe-9c62-7478c6b1b1d6"></p>
+<p align="center"><img style="width: 45%;text-align: center;border: 1px solid #353535;" src="https://github.com/keeweb/favicon-cdn/assets/118329232/497b72d2-2228-46dc-87e6-b6117e7b7eda"></p>
 
 <br />
 
