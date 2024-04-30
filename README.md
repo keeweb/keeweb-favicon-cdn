@@ -131,6 +131,7 @@ The following people have helped get this project going:
 <br />
 
 <!-- prettier-ignore-start -->
+[link-repo-main]: https://github.com/keeweb/keeweb
 [link-npm]: https://npmjs.com
 [link-node]: https://nodejs.org
 [link-npmtrends]: http://npmtrends.com/keeweb
