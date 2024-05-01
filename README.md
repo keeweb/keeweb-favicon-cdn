@@ -122,7 +122,7 @@ The following people have helped get this project going:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-</p>
+</div>
 
 <br />
 
