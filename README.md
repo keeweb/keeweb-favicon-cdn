@@ -3,7 +3,7 @@
 <br />
 <p>
 
-Used in combination with the [KeeWeb Favicon Service](https://services.keeweb.info) to store favicons for various websites.
+Used in combination with the [KeeWeb Favicon Service](https://services.keeweb.info/favicon/) to store favicons for various websites.
 
 </p>
 
@@ -33,9 +33,23 @@ Used in combination with the [KeeWeb Favicon Service](https://services.keeweb.in
 
 ## About
 
-The [KeeWeb Favicon Service](https://services.keeweb.info) allows users of KeeWeb to download favicons for the websites within their vault. 
+The [KeeWeb Favicon Service](https://services.keeweb.info/favicon/) allows users of KeeWeb to download favicons for the websites within their vault. 
 
 This repo serves as a content delivery network to override certain website favicons that are either difficult to see, or may implement measures which disallow grabbing the favicon from their website.
+
+<br />
+
+Icons can be fetched from the KeeWeb favicon service with the following syntax:
+```
+https://services.keeweb.info/favicon/{DOMAIN}/{ICON_SIZE}
+```
+
+<br />
+
+A working example using the above syntax:
+```
+https://services.keeweb.info/favicon/reddit.com/64
+```
 
 <br />
 
@@ -58,10 +72,16 @@ If you have attempted to grab an icon within KeeWeb for a certain website that i
   - 20 x 20
   - 16 x 16
 - All sizes need to be combined into a single `.ico` file
-- Each icon should not exceed 100kb
-- Icon should be placed in a parent folder which starts with the name of the service
-  - Ex: `/r/reddit.ico` for Reddit
-
+- Each icon should not exceed `80kb`
+- Icon should be placed in a parent folder which starts with the first letter of the service
+  - Ex: `/r/reddit.com.ico` for Reddit
+  - If you are providing a favicon for a subdomain, the folder name should start with the first letter of the subdomain, not the base domain.
+    - Ex: `/f/forum.libriv.ox.org.ico`
+  - Domains with dashes should be labeled with the same character.
+    - Ex: `/r/random-website.com.ico`
+  - Anything after the TLD _(top-level domain : .com, .org, .net, etc.)_ is ignored.
+    - Ex: https://subdomain.my-domain-example.com/example/page/file.html should have a favicon in `/s/subdomain.my-domain-example.com.ico`
+  
 <br />
 
 If you need an easy solution for converting icons to `.ico` with the proper sizes, you can install:
