@@ -115,6 +115,7 @@ In order to fetch the icon, you will need to change conflicting web-app ports to
 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | 8081 | `8081` |
 | [Duplicati](https://github.com/duplicati/duplicati) | 8200 | `8200` |
 | [Swizzin](https://github.com/swizzin/swizzin) | 8333 | `8333` |
+| [Syncthing](https://github.com/syncthing/syncthing) | 8384 | `8384` |
 | [Sonarr](https://github.com/Sonarr/Sonarr) | 8989 | `8989` |
 | [TheLounge](https://github.com/thelounge/thelounge) | 9000 | `9000` |
 | [Jackett](https://github.com/Jackett/Jackett) | 9117 | `9117` |
