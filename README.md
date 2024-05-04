@@ -105,25 +105,25 @@ In order to fetch the icon, you will need to change conflicting web-app ports to
 
 | App | Default Port | Repo Port |
 | --- | --- | --- |
-| [Gitea](https://github.com/go-gitea/gitea) | 3000 | `3000` |
-| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | 3001 | `3001` |
-| [Gogs](https://github.com/gogs/gogs) | 3000 | `3002` |
-| [Linkwarden](https://github.com/linkwarden/linkwarden) | 3000 | `3003` |
 | [Duplicacy](https://github.com/gilbertchen/duplicacy) | 3875 | `3875` |
-| [ShellInABox](https://github.com/shellinabox/shellinabox) | 4200 | `4200` |
-| [OpenGist](https://github.com/thomiceli/opengist) | 6157 | `6157` |
-| [qBittorrent](https://github.com/qbittorrent/qBittorrent) | 8081 | `8081` |
 | [Duplicati](https://github.com/duplicati/duplicati) | 8200 | `8200` |
-| [Swizzin](https://github.com/swizzin/swizzin) | 8333 | `8333` |
-| [Syncthing](https://github.com/syncthing/syncthing) | 8384 | `8384` |
-| [Sonarr](https://github.com/Sonarr/Sonarr) | 8989 | `8989` |
-| [TheLounge](https://github.com/thelounge/thelounge) | 9000 | `9000` |
+| [FileBrowser](https://github.com/filebrowser/filebrowser) | 22534 | `22534` |
+| [Gitea](https://github.com/go-gitea/gitea) | 3000 | `3000` |
+| [Gogs](https://github.com/gogs/gogs) | 3000 | `3002` |
 | [Jackett](https://github.com/Jackett/Jackett) | 9117 | `9117` |
+| [Linkwarden](https://github.com/linkwarden/linkwarden) | 3000 | `3003` |
+| [Netdata](https://github.com/netdata/netdata) | 19999 | `19999` |
+| [OpenGist](https://github.com/thomiceli/opengist) | 6157 | `6157` |
 | [Portainer](https://github.com/portainer/portainer) | 9443 | `9443` |
 | [Prowlarr](https://github.com/Prowlarr/Prowlarr) | 9696 | `9696` |
+| [qBittorrent](https://github.com/qbittorrent/qBittorrent) | 8081 | `8081` |
+| [ShellInABox](https://github.com/shellinabox/shellinabox) | 4200 | `4200` |
+| [Sonarr](https://github.com/Sonarr/Sonarr) | 8989 | `8989` |
+| [Swizzin](https://github.com/swizzin/swizzin) | 8333 | `8333` |
+| [Syncthing](https://github.com/syncthing/syncthing) | 8384 | `8384` |
+| [TheLounge](https://github.com/thelounge/thelounge) | 9000 | `9000` |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | 3001 | `3001` |
 | [Webmin](https://github.com/webmin/webmin) | 10000 | `10000` |
-| [Netdata](https://github.com/netdata/netdata) | 19999 | `19999` |
-| [FileBrowser](https://github.com/filebrowser/filebrowser) | 22534 | `22534` |
 
 <br />
 
