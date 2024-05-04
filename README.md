@@ -23,6 +23,7 @@ Used in combination with the [KeeWeb Favicon Service](https://services.keeweb.in
 
 - [About](#about)
 - [Contributing](#contributing)
+- [Self-Hosted Ports](#self-hosted-ports)
 - [Contributors ✨](#contributors-)
 
 <br />
@@ -90,6 +91,38 @@ If you need an easy solution for converting icons to `.ico` with the proper size
 <br />
 
 <p align="center"><img style="width: 45%;text-align: center;border: 1px solid #353535;" src="https://github.com/keeweb/favicon-cdn/assets/118329232/497b72d2-2228-46dc-87e6-b6117e7b7eda"></p>
+
+<br />
+
+---
+
+<br />
+
+## Self-Hosted Ports
+This repo supports fetching icons for locally hosted web-apps. However, keep in mind that some applications conflict and may share the same port. 
+
+In order to fetch the icon, you will need to chnage your web-app port to the same port assigned to the icon in this repo.
+
+| App | Default Port | Repo Port |
+| --- | --- | --- |
+| [Gitea](https://github.com/go-gitea/gitea) | 3000 | `3000` |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | 3001 | `3001` |
+| [Gogs](https://github.com/gogs/gogs) | 3000 | `3002` |
+| [Linkwarden](https://github.com/linkwarden/linkwarden) | 3000 | `3003` |
+| [Duplicacy](https://github.com/gilbertchen/duplicacy) | 3875 | `3875` |
+| [ShellInABox](https://github.com/shellinabox/shellinabox) | 4200 | `4200` |
+| [OpenGist](https://github.com/thomiceli/opengist) | 6157 | `6157` |
+| [qBittorrent](https://github.com/qbittorrent/qBittorrent) | 8081 | `8081` |
+| [Duplicati](https://github.com/duplicati/duplicati) | 8200 | `8200` |
+| [Swizzin](https://github.com/swizzin/swizzin) | 8333 | `8333` |
+| [Sonarr](https://github.com/Sonarr/Sonarr) | 8989 | `8989` |
+| [TheLounge](https://github.com/thelounge/thelounge) | 9000 | `9000` |
+| [Jackett](https://github.com/Jackett/Jackett) | 9117 | `9117` |
+| [Portainer](https://github.com/portainer/portainer) | 9443 | `9443` |
+| [Prowlarr](https://github.com/Prowlarr/Prowlarr) | 9696 | `9696` |
+| [Webmin](https://github.com/webmin/webmin) | 10000 | `10000` |
+| [Netdata](https://github.com/netdata/netdata) | 19999 | `19999` |
+| [FileBrowser](https://github.com/filebrowser/filebrowser) | 22534 | `22534` |
 
 <br />
 
