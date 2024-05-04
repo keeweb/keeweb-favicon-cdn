@@ -101,7 +101,7 @@ If you need an easy solution for converting icons to `.ico` with the proper size
 ## Self-Hosted Ports
 This repo supports fetching icons for locally hosted web-apps. However, keep in mind that some applications conflict and may share the same port. 
 
-In order to fetch the icon, you will need to chnage your web-app port to the same port assigned to the icon in this repo.
+In order to fetch the icon, you will need to change conflicting web-app ports to the same port specified below:
 
 | App | Default Port | Repo Port |
 | --- | --- | --- |
