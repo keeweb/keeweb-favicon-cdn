@@ -134,7 +134,7 @@ In order to fetch the icon, you will need to change conflicting web-app ports to
 <br />
 
 ## Takedown Requests
-If you are the representative for a company who wishes to not have your companies' icon hosted within this repository; you may send us a request to remove the favicon by submitting a request to `keeweb[at]keeweb.info`
+If you are the representative for a company who wishes to not have your companies' icon hosted within this repository; you may send us a request to remove the favicon by contacting us at `keeweb[at]keeweb.info`
 
 <br />
 
