@@ -24,6 +24,8 @@ Used in combination with the [KeeWeb Favicon Service](https://services.keeweb.in
 - [About](#about)
 - [Contributing](#contributing)
 - [Self-Hosted Ports](#self-hosted-ports)
+- [Takedown Requests](#takedown-requests)
+- [Trademark Disclaimer](#trademark-disclaimer)
 - [Contributors ✨](#contributors-)
 
 <br />
@@ -124,6 +126,24 @@ In order to fetch the icon, you will need to change conflicting web-app ports to
 | [TheLounge](https://github.com/thelounge/thelounge) | 9000 | `9000` |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | 3001 | `3001` |
 | [Webmin](https://github.com/webmin/webmin) | 10000 | `10000` |
+
+<br />
+
+---
+
+<br />
+
+## Takedown Requests
+If you are the representative for a company who wishes to not have your companies' icon hosted within this repository; you may send us a request to remove the favicon by submitting a request to `keeweb[at]keeweb.info`
+
+<br />
+
+---
+
+<br />
+
+## Trademark Disclaimer
+All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, trademarks and brands does not imply endorsement.
 
 <br />
 
